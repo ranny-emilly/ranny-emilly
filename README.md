@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mim
 
-* Meu **foco principal é a linguagem C**, especialmente para:
+* Meu **foco principal, NO MOMENTO, é a linguagem C**, especialmente para:
 
   * Estruturas de Dados
   * Lógica de programação
