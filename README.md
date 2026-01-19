@@ -1,6 +1,6 @@
 # 👋 Olá! Me chamo Emilly Ranny
 
-🎓 Estudante de **Engenharia de Software**
+🎓 Estudante de **Engenharia de Software - UFG**
 💻 Apaixonada por programação, lógica e estrutura de dados
 🧠 Perfil analítico, com forte base em **matemática**
 
