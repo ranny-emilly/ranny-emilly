@@ -53,6 +53,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
+ <img src="https://godotengine.org/assets/press/icon_color.png" width="50"/>
 </p>
 
 ### 🎨 Design & Conteúdo
