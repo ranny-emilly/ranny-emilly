@@ -27,7 +27,11 @@ Tambem tenho interesse forte em backend e desenvolvimento de sistemas, principal
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ranny-emilly&theme=tokyonight" alt="Detalhes do Perfil" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ranny-emilly/ranny-emilly/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ranny-emilly/ranny-emilly/output/github-snake.svg">
+    <img alt="Animação da Cobrinha comendo os commits" src="https://raw.githubusercontent.com/ranny-emilly/ranny-emilly/output/github-snake.svg" width="100%">
+  </picture>
 </p>
 
 ---
