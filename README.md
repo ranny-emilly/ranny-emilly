@@ -22,12 +22,12 @@ Tambem tenho interesse forte em backend e desenvolvimento de sistemas, principal
 ## Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ranny-emilly&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranny-emilly&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ranny-emilly&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=1800" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranny-emilly&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ranny-emilly&theme=tokyonight"/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ranny-emilly&theme=tokyonight" alt="Detalhes do Perfil" />
 </p>
 
 ---
